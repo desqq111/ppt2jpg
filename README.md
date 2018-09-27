@@ -5,7 +5,7 @@
 # 介绍
 由python 3.5编写。
 
-### 需要安装的pythony库
+### 需要安装的python库
 
 import wx
 
